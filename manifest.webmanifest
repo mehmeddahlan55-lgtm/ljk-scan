@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "Koreksi Lembar Jawab",
+  "short_name": "Koreksi LJK",
+  "description": "Koreksi lembar jawab pilihan ganda langsung dari foto HP.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e6edf3",
+  "theme_color": "#e6edf3",
+  "orientation": "any",
+  "lang": "id",
+  "categories": [
+    "education",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
